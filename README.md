@@ -10,6 +10,29 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
   targeted vtoff task with a two-stage method.
 </sup>
 
+<sup>[2022-08-11]</sup> 
+***ARMANI: Part-level Garment-Text Alignment for Unified Cross-Modal Fashion Design***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2208.05621) 
+  text-to-garment generation.
+</sup>
+
+<sup>[2023-08-22]</sup> 
+***DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2308.11206) 
+  finetuned StableDiffusion for targeting garment synthesis and manipulation.
+</sup>
+
+<sup>[2024-01-29]</sup> 
+***DressCode: Autoregressively Sewing and Generating Garments from Text Guidance***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2401.16465)
+  [[project]](https://ihe-kaii.github.io/DressCode/)
+  [[code]](https://github.com/IHe-KaiI/DressCode)
+  text-to-3dGarment with 2 branches: text-to-sewing-patterns with SewingGPT (3d garment) and text-to-texture with finetuned StableDiffusion.
+</sup>
+
 <sup>[2024-04-22]</sup>
 ***FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on***\
 <sup>
