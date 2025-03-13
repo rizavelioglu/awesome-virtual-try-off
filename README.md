@@ -2,6 +2,19 @@
 
 Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardized, canonical garment images from single photos of clothed individuals, moving beyond traditional virtual try-on techniques by focusing on precise garment reconstruction rather than model dressing. The task was introduced in [TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models](https://rizavelioglu.github.io/tryoffdiff).
 
+
+### Demos
+- [[🤗 Space]](https://huggingface.co/spaces/rizavelioglu/tryoffdiff) finetuned Stable Diffusion-v1.4 for VTOFF and introduced `TryOffDiff`.
+- [[🤗 Space]](https://huggingface.co/spaces/ginipick/FitGen) uses `FLUX.1-dev` and the LoRA `"prithivMLmods/Canopus-Clothing-Flux-LoRA"` to generate clothes from text.
+- [[🤗 Space]](https://huggingface.co/spaces/xiaozaa/cat-try-off-flux) trained a new model "cat-try-off-flux" based on `FLUX.1-dev` and `CatVTON`.
+- [[🤗 Space]](https://huggingface.co/spaces/multimodalart/flux-style-shaping) uses `FLUX.1-dev-Redux` + `FLUX.1-dev-Depth`. Set mask as 'structure' and model image as 'style' for targeting VTOFF.
+
+
+### Datasets
+- 2021, [VITON-HD](https://paperswithcode.com/dataset/viton-hd)
+- 2022, [DressCode](https://paperswithcode.com/dataset/dress-code)
+
+
 ### Papers
 <sup>[2020-05-08]</sup> 
 ***TileGAN: category-oriented attention-based high-quality tiled clothes generation from dressed person***\
@@ -91,13 +104,3 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
   [[paper]](https://ieeexplore.ieee.org/document/10889966)
   trained a WURSTCHEN-based model for text-to-garment task.
 </sup>
-
-### Datasets
-- 2021, [VITON-HD](https://paperswithcode.com/dataset/viton-hd)
-- 2022, [DressCode](https://paperswithcode.com/dataset/dress-code)
-
-### Demos
-- [[🤗 Space]](https://huggingface.co/spaces/rizavelioglu/tryoffdiff) finetuned Stable Diffusion-v1.4 for VTOFF and introduced `TryOffDiff`.
-- [[🤗 Space]](https://huggingface.co/spaces/ginipick/FitGen) uses `FLUX.1-dev` and the LoRA `"prithivMLmods/Canopus-Clothing-Flux-LoRA"` to generate clothes from text.
-- [[🤗 Space]](https://huggingface.co/spaces/xiaozaa/cat-try-off-flux) trained a new model "cat-try-off-flux" based on `FLUX.1-dev` and `CatVTON`.
-- [[🤗 Space]](https://huggingface.co/spaces/multimodalart/flux-style-shaping) uses `FLUX.1-dev-Redux` + `FLUX.1-dev-Depth`. Set mask as 'structure' and model image as 'style' for targeting VTOFF.
