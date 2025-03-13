@@ -17,6 +17,13 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
   text-to-garment generation.
 </sup>
 
+<sup>[2023-08-15]</sup> 
+***SGDiff: A Style Guided Diffusion Model for Fashion Synthesis***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2308.07605)
+  finetuned GLIDE to generate garment images from "text" (garment attributes) + "style image".
+</sup>
+
 <sup>[2023-08-22]</sup> 
 ***DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment***\
 <sup>
@@ -39,6 +46,13 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
   [[paper]](https://arxiv.org/abs/2404.14162) 
   [[code]](https://github.com/xiangji-ai/fldm-vton) 
   vtoff task is included in the loss function for training a vton model, vtoff was not the focus of the paper, nor was a stand-alone task introduced.
+</sup>
+
+<sup>[2024-04-26]</sup>
+***FashionSD-X: Multimodal Fashion Garment Synthesis using Latent Diffusion***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2404.18591v1)
+  finetuned SD-v1.5 with ControlNet to generate garments from text + sketch image.
 </sup>
 
 <sup>[2024-11-27]</sup>
@@ -69,6 +83,13 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
 <sup>
   [[paper]](https://arxiv.org/abs/2412.11513)
   finetuned Stable Diffusion-v1.5 for vtoff using 2 UNets (Reference and Denoiser).
+</sup>
+
+<sup>[2025-03-07]</sup>
+***DiffDesign: A diffusion model using garment Knowledge-Enhanced for Fashion Design Synthesis***\
+<sup>
+  [[paper]](https://ieeexplore.ieee.org/document/10889966)
+  trained a WURSTCHEN-based model for text-to-garment task.
 </sup>
 
 ### Datasets
