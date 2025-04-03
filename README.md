@@ -23,6 +23,13 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
   targeted vtoff task with a two-stage method.
 </sup>
 
+<sup>[2021-08-08]</sup> 
+***ViTon-GUN: Person-to-Person Virtual Try-on via Garment Unwrapping***\
+<sup>
+  [[paper]](https://ieeexplore.ieee.org/abstract/document/10944549) 
+  targeted p2p-vton task: run vtoff first, then vton.
+</sup>
+
 <sup>[2022-08-11]</sup> 
 ***ARMANI: Part-level Garment-Text Alignment for Unified Cross-Modal Fashion Design***\
 <sup>
