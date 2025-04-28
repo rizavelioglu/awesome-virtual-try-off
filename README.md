@@ -105,9 +105,27 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
   finetuned Stable Diffusion-v1.5 for vtoff using 2 UNets (Reference and Denoiser).
 </sup>
 
+<sup>[2025-01-27]</sup>
+***Any2AnyTryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2501.15891)
+  [[project]](https://logn-2024.github.io/Any2anyTryonProjectPage/)
+  [[code]](https://github.com/logn-2024/Any2anyTryon)
+  1st unified model targeting both VTON and VTOFF. 
+</sup>
+
 <sup>[2025-03-07]</sup>
 ***DiffDesign: A diffusion model using garment Knowledge-Enhanced for Fashion Design Synthesis***\
 <sup>
   [[paper]](https://ieeexplore.ieee.org/document/10889966)
   trained a WURSTCHEN-based model for text-to-garment task.
+</sup>
+
+<sup>[2025-04-17]</sup>
+***Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2504.13078)
+  [[project]](https://rizavelioglu.github.io/tryoffdiff)
+  [[code]](https://github.com/rizavelioglu/tryoffdiff/)
+  1st VTOFF model supporting multiple garment reconstruction. Finetuned StableDiffusion-v1.4 (similar to TryOffDiff) and trained a class embedding for multi-garment support.
 </sup>
