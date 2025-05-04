@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: '  A Curated List of Awesome Virtual Try-Off (VTOFF) Research'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Riza
+    family-names: Velioglu
+    orcid: 'https://orcid.org/0000-0002-2160-4976'
+repository-code: 'https://github.com/rizavelioglu/awesome-virtual-try-off'
+abstract: >-
+  A curated list of awesome research papers, projects, code,
+  dataset, workshops etc. related to virtual try-off.
+keywords:
+  - awesome-list
+  - fashion-tech
+  - garment-generation
+license: Apache-2.0
