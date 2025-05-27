@@ -77,6 +77,15 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
   finetuned SD-v1.5 with ControlNet to generate garments from text + sketch image.
 </sup>
 
+<sup>[2024-11-25]</sup>
+***Controllable Human Image Generation with Personalized Multi-Garments***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2411.16801)
+  [[project]](https://omnious.github.io/BootComp/)
+  [[code]](https://github.com/omnious/BootComp)
+  generated garment images from segmented garments—extracted from reference images—to construct a dataset for training a multi-garment VTON model.
+</sup>
+
 <sup>[2024-11-27]</sup>
 ***TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models***\
 <sup>
