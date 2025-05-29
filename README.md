@@ -140,3 +140,12 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
   [[code]](https://github.com/rizavelioglu/tryoffdiff/)
   1st VTOFF model supporting multiple garment reconstruction. Finetuned StableDiffusion-v1.4 (similar to TryOffDiff) and trained a class embedding for multi-garment support.
 </sup>
+
+<sup>[2025-05-27]</sup>
+***Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2505.21062)
+  [[project]](https://temu-vtoff-page.github.io/)
+  [[code]](https://github.com/davidelobba/TEMU-VTOFF)
+  1st dual-DiT model for VTOFF with multi-garment support, built on a finetuned StableDiffusion-v3 with modified attention. It accepts images, text, or masks as input, enabling multi-category garment handling.
+</sup>
