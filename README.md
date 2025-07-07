@@ -141,6 +141,15 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
   1st VTOFF model supporting multiple garment reconstruction. Finetuned StableDiffusion-v1.4 (similar to TryOffDiff) and trained a class embedding for multi-garment support.
 </sup>
 
+<sup>[2025-04-17]</sup>
+***IMAGGarment-1: Fine-Grained Garment Generation for Controllable Fashion Design***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2504.13176)
+  [[project]](https://revive234.github.io/imaggarment.github.io/)
+  [[code]](https://github.com/muzishen/IMAGGarment-1)
+garment synthesis with precise control over silhouette, color, and logo placement (3 inputs). Incorporates a tower architecure with SD-1.5 for coarse generation followed by a fine-grained approach utilizing SD-1.5-inpaint.
+</sup>
+
 <sup>[2025-05-26]</sup>
 ***ImgEdit: A Unified Image Editing Dataset and Benchmark***\
 <sup>
