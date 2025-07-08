@@ -116,6 +116,13 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
   finetuned Stable Diffusion-v1.5 for vtoff using 2 UNets (Reference and Denoiser).
 </sup>
 
+<sup>[2025-01-08]</sup>
+***Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2501.04666)
+  used VTOFF to generate synthetic pairs to enrich VTON training dataset. Trained a U-Net model for warping latent features.
+</sup>
+
 <sup>[2025-01-27]</sup>
 ***Any2AnyTryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks***\
 <sup>
