@@ -140,7 +140,7 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
 </sup>
 
 <sup>[2025-04-17]</sup>
-***Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off***\
+***MGT: Extending Virtual Try-Off to Multi-Garment Scenarios***\
 <sup>
   [[paper]](https://arxiv.org/abs/2504.13078)
   [[project]](https://rizavelioglu.github.io/tryoffdiff)
