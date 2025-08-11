@@ -1,6 +1,6 @@
 # 🌟 A Curated List of Awesome Virtual Try-Off (VTOFF) Research 🌟
 
-Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardized, canonical garment images from single photos of clothed individuals, moving beyond traditional virtual try-on techniques by focusing on precise garment reconstruction rather than model dressing. The task was introduced in [TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models](https://rizavelioglu.github.io/tryoffdiff).
+Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardized, canonical images of garments from single photos of clothed individuals, moving beyond traditional virtual try-on techniques by focusing on precise garment reconstruction rather than model dressing. The task was introduced and the term coined in [TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models](https://rizavelioglu.github.io/tryoffdiff).
 
 
 ### Demos
@@ -172,4 +172,27 @@ garment synthesis with precise control over silhouette, color, and logo placemen
   [[project]](https://temu-vtoff-page.github.io/)
   [[code]](https://github.com/davidelobba/TEMU-VTOFF)
   1st dual-DiT model for VTOFF with multi-garment support, built on a finetuned StableDiffusion-v3 with modified attention. It accepts images, text, or masks as input, enabling multi-category garment handling.
+</sup>
+
+<sup>[2025-08-06]</sup>
+***Two-Way Garment Transfer: Unified Diffusion Framework for Dressing and Undressing Synthesis***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2508.04551)
+  unified framework (TWGTM) targeting both VTON & VTOFF.
+</sup>
+
+<sup>[2025-08-06]</sup>
+***One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2508.04559)
+  [[project]](https://onemodelforall.github.io/)
+  unified framework (OMFA) targeting both VTON & VTOFF.
+</sup>
+
+<sup>[2025-08-06]</sup>
+***Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2508.04825)
+  [[project]](https://nxnai.github.io/Voost/)
+  unified framework (Voost) targeting both VTON & VTOFF.
 </sup>
