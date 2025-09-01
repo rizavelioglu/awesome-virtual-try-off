@@ -15,6 +15,7 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
 - 2022, [Dress Code](https://paperswithcode.com/dataset/dress-code)
 - 2024, [IGPair](https://huggingface.co/datasets/IMAGDressing/IGPair)
 - 2025, [LAION-Garment](https://huggingface.co/datasets/loooooong/LAION-Garment)
+- 2025, [Dress Code-MR](https://huggingface.co/datasets/zhengchong/DressCode-MR)
 
 
 ### Papers
