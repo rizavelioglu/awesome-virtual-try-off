@@ -197,3 +197,10 @@ garment synthesis with precise control over silhouette, color, and logo placemen
   [[project]](https://nxnai.github.io/Voost/)
   unified framework (Voost) targeting both VTON & VTOFF.
 </sup>
+
+<sup>[2026-01-05]</sup>
+***AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2601.02038)
+  dual-U-Net pipeline trained with a loss combining regular diffusion loss + LPIPS.
+</sup>
