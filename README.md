@@ -8,6 +8,7 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
 - [[🤗 Space]](https://huggingface.co/spaces/ginipick/FitGen) uses `FLUX.1-dev` and the LoRA `"prithivMLmods/Canopus-Clothing-Flux-LoRA"` to generate clothes from text.
 - [[🤗 Space]](https://huggingface.co/spaces/xiaozaa/cat-try-off-flux) trained a new model "cat-try-off-flux" based on `FLUX.1-dev` and `CatVTON`.
 - [[🤗 Space]](https://huggingface.co/spaces/multimodalart/flux-style-shaping) uses `FLUX.1-dev-Redux` + `FLUX.1-dev-Depth`. Set mask as 'structure' and model image as 'style' for targeting VTOFF.
+- [[fal.ai]](https://fal.ai/models/fal-ai/flux-2-klein/9b/base/edit/lora/playground?share=033cae58-12b5-4fef-992b-d48ff6759e01) trained a LoRA with `FLUX.2-klein-9B` for vtoff task. They also generate 360-video of the garment with a [workflow](https://fal.ai/workflows/rizavelioglu/workflow-virtual-try-off?view=playground).
 
 
 ### Datasets
