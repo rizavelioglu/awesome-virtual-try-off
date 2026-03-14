@@ -1,6 +1,7 @@
 # 🌟 A Curated List of Awesome Virtual Try-Off (VTOFF) Research 🌟
 
-Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardized, canonical images of garments from single photos of clothed individuals, moving beyond traditional virtual try-on techniques by focusing on precise garment reconstruction rather than model dressing. The task was introduced and the term coined in [TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models](https://rizavelioglu.github.io/tryoffdiff).
+Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardized, canonical images of garments from single photos of clothed individuals.
+Unlike traditional Virtual Try-On (VTON) techniques, which focus on dressing a model with new garments, VTOFF focuses on recovering the clothing item itself with high fidelity. The task was introduced and the term coined in [TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models](https://rizavelioglu.github.io/tryoffdiff).
 
 
 ### Demos
@@ -17,9 +18,25 @@ Virtual Try-Off (VTOFF) is a novel computer vision task that extracts standardiz
 - 2024, [IGPair](https://huggingface.co/datasets/IMAGDressing/IGPair)
 - 2025, [LAION-Garment](https://huggingface.co/datasets/loooooong/LAION-Garment)
 - 2025, [Dress Code-MR](https://huggingface.co/datasets/zhengchong/DressCode-MR)
+- 2026, [MV-Fashion](https://hunorlaczko.github.io/MV-Fashion/)
 
 
-### Papers
+### Papers <sub><sup>(do not explicitly target VTOFF but evaluate or incorporate it)</sup></sub>
+<sup>[2025-06-17]</sup> 
+***FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2506.15742)
+  experimented with task, see Figure 6.
+</sup>
+
+<sup>[2026-03-10]</sup> 
+***InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2603.09877)
+  experimented with task, see Figure 16.
+</sup>
+
+### Papers <sub><sup>(directly related to VTOFF)</sup></sub>
 <sup>[2020-05-08]</sup> 
 ***TileGAN: category-oriented attention-based high-quality tiled clothes generation from dressed person***\
 <sup>
