@@ -216,9 +216,24 @@ garment synthesis with precise control over silhouette, color, and logo placemen
   unified framework (Voost) targeting both VTON & VTOFF.
 </sup>
 
+<sup>[2025-11-19]</sup>
+***UniFit: Towards Universal Virtual Try-on with MLLM-Guided Semantic Alignment***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2511.15831v2)
+  [[code]](https://github.com/zwplus/UniFit)
+  a universal framework driven by Multimodal Large Language Model.
+</sup>
+
 <sup>[2026-01-05]</sup>
 ***AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off***\
 <sup>
   [[paper]](https://arxiv.org/abs/2601.02038)
   dual-U-Net pipeline trained with a loss combining regular diffusion loss + LPIPS.
+</sup>
+
+<sup>[2026-03-10]</sup>
+***BridgeDiff: Bridging Human Observations and Flat-Garment Synthesis for Virtual Try-Off***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2603.09236)
+  dual-U-Net framework based on Stable-Diffusion-v1.5.
 </sup>
