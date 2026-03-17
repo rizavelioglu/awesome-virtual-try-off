@@ -19,6 +19,7 @@ Unlike traditional Virtual Try-On (VTON) techniques, which focus on dressing a m
 - 2025, [LAION-Garment](https://huggingface.co/datasets/loooooong/LAION-Garment)
 - 2025, [Dress Code-MR](https://huggingface.co/datasets/zhengchong/DressCode-MR)
 - 2026, [MV-Fashion](https://hunorlaczko.github.io/MV-Fashion/)
+- 2026, [Garments2Look](https://artmesciencelab.github.io/Garments2Look/)
 
 
 ### Papers <sub><sup>(do not explicitly target VTOFF but evaluate or incorporate it)</sup></sub>
