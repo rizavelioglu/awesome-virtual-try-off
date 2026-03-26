@@ -238,3 +238,10 @@ garment synthesis with precise control over silhouette, color, and logo placemen
   [[paper]](https://arxiv.org/abs/2603.09236)
   dual-U-Net framework based on Stable-Diffusion-v1.5.
 </sup>
+
+<sup>[2026-03-23]</sup>
+***Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2603.22607)
+  introduced a synthetic benchmark Dress Editing Dataset (Dress-ED) and Dress Editing Model (Dress-EM) targeting both VTON and VTOFF.
+</sup>
