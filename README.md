@@ -245,3 +245,10 @@ garment synthesis with precise control over silhouette, color, and logo placemen
   [[paper]](https://arxiv.org/abs/2603.22607)
   introduced a synthetic benchmark Dress Editing Dataset (Dress-ED) and Dress Editing Model (Dress-EM) targeting both VTON and VTOFF.
 </sup>
+
+<sup>[2026-03-24]</sup>
+***OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2603.19643)
+  introduced a unified Omni-VTON framework based on the Diffusion Transformer (DiT) that combines model-based VTON, model-free VTON, and VTOFF tasks in a single mask-free model, trained on a self-curated Omni-TryOn dataset of over 380k image pairs.
+</sup>
