@@ -252,3 +252,10 @@ garment synthesis with precise control over silhouette, color, and logo placemen
   [[paper]](https://arxiv.org/abs/2603.19643)
   introduced a unified Omni-VTON framework based on the Diffusion Transformer (DiT) that combines model-based VTON, model-free VTON, and VTOFF tasks in a single mask-free model, trained on a self-curated Omni-TryOn dataset of over 380k image pairs.
 </sup>
+
+<sup>[2026-04-09]</sup>
+***What Matters in Virtual Try-Off? Dual-UNet Diffusion Model For Garment Reconstruction***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2604.08716)
+  introduced a Dual-UNet Diffusion Model for VTOFF, thoroughly ablating design choices in generation backbones, conditioning (masks, inputs, semantics), and training strategies/losses to reconstruct canonical garments from draped images.
+</sup>
