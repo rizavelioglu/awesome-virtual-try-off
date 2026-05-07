@@ -217,6 +217,13 @@ garment synthesis with precise control over silhouette, color, and logo placemen
   unified framework (Voost) targeting both VTON & VTOFF.
 </sup>
 
+<sup>[2025-08-25]</sup>
+***JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2508.17614)
+trained a VTOFF model for cyclic data generation pipeline.
+</sup>
+
 <sup>[2025-11-19]</sup>
 ***UniFit: Towards Universal Virtual Try-on with MLLM-Guided Semantic Alignment***\
 <sup>
