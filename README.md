@@ -37,6 +37,13 @@ Unlike traditional Virtual Try-On (VTON) techniques, which focus on dressing a m
   experimented with task, see Figure 16.
 </sup>
 
+<sup>[2026-06-11]</sup> 
+***A VLM-based framework for evaluating garment consistency in AI-generated images based on DeLong’s theory***\
+<sup>
+  [[paper]](https://link.springer.com/article/10.1186/s40691-026-00475-w)
+  developed a garment-specific evaluation framework, surpassing traditional eval metrics.
+</sup>
+
 ### Papers <sub><sup>(directly related to VTOFF)</sup></sub>
 <sup>[2020-05-08]</sup> 
 ***TileGAN: category-oriented attention-based high-quality tiled clothes generation from dressed person***\
