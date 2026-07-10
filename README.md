@@ -273,3 +273,10 @@ trained a VTOFF model for cyclic data generation pipeline.
   [[paper]](https://arxiv.org/abs/2604.08716)
   introduced a Dual-UNet Diffusion Model for VTOFF, thoroughly ablating design choices in generation backbones, conditioning (masks, inputs, semantics), and training strategies/losses to reconstruct canonical garments from draped images.
 </sup>
+
+<sup>[2026-07-09]</sup>
+***MMTryOff: multi-category virtual try-off with mask-free inference via diffusion transformer***\
+<sup>
+  [[paper]](https://link.springer.com/article/10.1007/s00530-026-02480-x)
+  LoRA training with FLUX.1-dev, on newly proposed VITOFF-HD dataset, incorporating frequency loss and mask loss during training. CatVTON-style training. No code, no dataset available.
+</sup>
