@@ -37,6 +37,13 @@ Unlike traditional Virtual Try-On (VTON) techniques, which focus on dressing a m
   experimented with task, see Figure 16.
 </sup>
 
+<sup>[2026-04-09]</sup> 
+***FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2604.08526)
+  used Nano Banana Pro as VTOFF method to generate paired dataset.
+</sup>
+
 <sup>[2026-06-11]</sup> 
 ***A VLM-based framework for evaluating garment consistency in AI-generated images based on DeLong’s theory***\
 <sup>
