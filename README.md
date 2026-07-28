@@ -287,3 +287,6 @@ trained a VTOFF model for cyclic data generation pipeline.
   [[paper]](https://link.springer.com/article/10.1007/s00530-026-02480-x)
   LoRA training with FLUX.1-dev, on newly proposed VITOFF-HD dataset, incorporating frequency loss and mask loss during training. CatVTON-style training. No code, no dataset available.
 </sup>
+
+
+- [STIL.AI](https://tools.gracestack.se/) — Free AI fashion design generation with GPT Image 2 on A100 GPUs. Text-to-design, 97+ unique AI-generated garments, Swish payment (no card needed). Open source designs.
