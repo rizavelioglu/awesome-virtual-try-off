@@ -293,11 +293,27 @@ trained a VTOFF model for cyclic data generation pipeline.
   introduced a unified Omni-VTON framework based on the Diffusion Transformer (DiT) that combines model-based VTON, model-free VTON, and VTOFF tasks in a single mask-free model, trained on a self-curated Omni-TryOn dataset of over 380k image pairs.
 </sup>
 
+<sup>[2026-03-28]</sup>
+***TrendGen: An Outfit Recommendation and Display System***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2603.27264)
+  production system with a Latent Diffusion Model (fine-tuned SD-v1.5 inpainting) for VTOFF. Used for outfit recommendation inputs and product display.
+</sup>
+
+
 <sup>[2026-04-09]</sup>
 ***What Matters in Virtual Try-Off? Dual-UNet Diffusion Model For Garment Reconstruction***\
 <sup>
   [[paper]](https://arxiv.org/abs/2604.08716)
   introduced a Dual-UNet Diffusion Model for VTOFF, thoroughly ablating design choices in generation backbones, conditioning (masks, inputs, semantics), and training strategies/losses to reconstruct canonical garments from draped images.
+</sup>
+
+<sup>[2026-06-26]</sup>
+***OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation***\
+<sup>
+  [[paper]](https://arxiv.org/abs/2606.27880)
+  [[code]](https://github.com/NJU-PCALab/OrthoTryOn)
+  unified framework for VTON & VTOFF, and pose transfer via shared LoRA with Orthogonal Subspace Projection (OSP) and Fisher-guided Negative Guidance (FNG) to resolve inter-task gradient conflicts. Outperforms task-specific models.
 </sup>
 
 <sup>[2026-07-09]</sup>
@@ -313,3 +329,4 @@ trained a VTOFF model for cyclic data generation pipeline.
   [[paper]](https://arxiv.org/abs/2608.29280)
   follow-up to RAGDiffusion: Dual-Image-Stream FLUX + AR-GRPO RL post-training with Garment-RM to recover high-frequency textures (weaves, logos) after RAG’s macro-constraints. Introduces STGarment-Plus.
 </sup>
+
